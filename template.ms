@@ -27,7 +27,6 @@ Frank Grimes
 .LP
 .ce
 frank.grimes@springfieldnuclear.com
-.ce 1
 .FLH Education
 .HR "Correspondence College" "Aug 1991 - May 1996"
 .B 
